@@ -1,0 +1,6 @@
+open folder
+cd IIT_codeGurus/IIT_codeGurus
+"C:\Users\ROWTECH\Desktop\Programming files\IIT_codeGurus\IIT_codeGurus\draenv\Scripts\activate"
+pip install django
+pip install django djangorestframework
+python manage.py runserver
