@@ -61,7 +61,7 @@ To run the application on your local machine, follow these steps:
 ## Conclusion
 The Air Quality Information Web Application offers a user-friendly way to access real-time air quality data for different cities worldwide. It provides a visually appealing map and detailed information for each city, allowing users to make informed decisions based on air quality conditions. By following the provided instructions, users can run the application locally and explore air quality data for various locations. Please note that users are required to have Django and Django Rest Framework installed on their systems to run this application successfully. Feel free to customize this document to add any additional details or specific usage guidelines for your application.
 
-## Targeted Prototype Link
+## Targeted Prototype Link (Figma)
 [Prototype](https://www.figma.com/proto/wC7zZfKiTu36lWqWHIme7x/IIT_codeGurus?type=design&node-id=57-1278&t=kaJ5xuVvXXYZ4dek-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=57%3A1278&mode=design)
 
 ## GitHub Repository Link
