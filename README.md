@@ -65,4 +65,4 @@ The Air Quality Information Web Application offers a user-friendly way to access
 [Prototype](https://www.figma.com/proto/wC7zZfKiTu36lWqWHIme7x/IIT_codeGurus?type=design&node-id=57-1278&t=kaJ5xuVvXXYZ4dek-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=57%3A1278&mode=design)
 
 ## GitHub Repository Link
-[GitHub Repository](https://github.com/Abir-Ashab/IIT_codeGurus)
+[GitHub Repository](https://github.com/Rafid13iit/IIT_Hackathon-ITverse23)
